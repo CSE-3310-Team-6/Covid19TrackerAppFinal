@@ -1,6 +1,7 @@
 
 # Project : *COVID-19 Tracker App* 
 
+
 **Covid-19 Tracker App** is an android app that 
 * Displays global as well nation-wise statistics of SARS-CoV-2 virus.
 * Offers features to identify symptoms and suggest preventive measures.
@@ -9,6 +10,15 @@
 * It uses Firebase auth for user authentication.
 
 Time spent: **15** hours spent in total
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/Kidrah31/Covid19Tracker/blob/main/AppWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 ## Requirements
 
 Install Flutter for Windows/Mac OS and Linux
@@ -66,13 +76,7 @@ The following functionality is implemented:
 * [x] Users can use the floating **SOS CALL** button anytime while interacting with the app to ** to initiate a call to 911**
 * [X] Users can use the **Logout ** button on the App's title bar to Log out of the app and navigate to the login screen for a new login session.
 
-## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='https://github.com/Kidrah31/Covid19Tracker/blob/main/AppWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
